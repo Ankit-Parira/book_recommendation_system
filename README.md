@@ -14,11 +14,11 @@ Overall, a book recommendation system can be a valuable tool for avid readers, b
 git clone https://github.com/theabinashpanda/MinorProject_Btech
 
 #Setting up the environment and run the web application.
-pip install virtualenv
-virtualenv env
-env\Scripts\activate
-pip install flask numpy pandas matplotlib seaborn
-app.py 
+.pip install virtualenv
+.virtualenv env
+.env\Scripts\activate
+.pip install flask numpy pandas matplotlib seaborn
+.app.py 
 
 #if 'app.py' doesn't work try:
 
